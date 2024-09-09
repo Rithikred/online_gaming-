@@ -30,21 +30,8 @@ Im using a kaggle dataset named 🎮 Predict Online Gaming Behavior Dataset by
 ## Data loading 
 * We are going to import data into postgreSQL the data import query is like this and make sure to use only small letters.
   
-CREATE TABLE player_data (
-    PlayerID INT PRIMARY KEY,
-    Age INT,
-    Gender VARCHAR(10),
-    Location VARCHAR(50),
-    GameGenre VARCHAR(20),
-    PlayTimeHours NUMERIC(10, 2),
-    InGamePurchases NUMERIC(10, 2),
-    GameDifficulty VARCHAR(10),
-    SessionsPerWeek INT,
-    AvgSessionDurationMinutes NUMERIC(5, 2),
-    PlayerLevel INT,
-    AchievementsUnlocked INT,
-    EngagementLevel VARCHAR(10)
-);
+![image](https://github.com/user-attachments/assets/76d102dd-4922-46f4-94c4-1d179f541e20)
+
 
 * This will succesfully import our dataset into our database and we start querying.
 
