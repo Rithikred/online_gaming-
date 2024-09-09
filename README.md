@@ -27,6 +27,31 @@ Im using a kaggle dataset named 🎮 Predict Online Gaming Behavior Dataset by
   ![image](https://github.com/user-attachments/assets/44760a35-e8aa-408e-8a0c-905d30a6e221)
 
 
+## Data loading 
+* We are going to import data into postgreSQL the data import query is like this and make sure to use only small letters.
+  
+CREATE TABLE player_data (
+    PlayerID INT PRIMARY KEY,
+    Age INT,
+    Gender VARCHAR(10),
+    Location VARCHAR(50),
+    GameGenre VARCHAR(20),
+    PlayTimeHours NUMERIC(10, 2),
+    InGamePurchases NUMERIC(10, 2),
+    GameDifficulty VARCHAR(10),
+    SessionsPerWeek INT,
+    AvgSessionDurationMinutes NUMERIC(5, 2),
+    PlayerLevel INT,
+    AchievementsUnlocked INT,
+    EngagementLevel VARCHAR(10)
+);
+
+* This will succesfully import our dataset into our database and we start querying.
+
+
+
+
+
   
 
 
