@@ -38,11 +38,13 @@ Im using a kaggle dataset named 🎮 Predict Online Gaming Behavior Dataset by
 
 ## EDA 
 first basic thing i observed, what kind of genre people like spend time a lot. Below are the results.
+
 ![image](https://github.com/user-attachments/assets/1d0ff15e-0462-4576-ba38-e25281261923)
 
-
+##
 
 what is the age group that spends the most time on the video game.
+
 ![image](https://github.com/user-attachments/assets/d270528f-9765-4d85-b1b7-f51f9cab6a6b)
 
 
