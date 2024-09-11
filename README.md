@@ -47,6 +47,48 @@ what is the age group that spends the most time on the video game.
 
 ![image](https://github.com/user-attachments/assets/d270528f-9765-4d85-b1b7-f51f9cab6a6b)
 
+## 
+
+We aim to identify the optimal location and genre for investment by focusing on regions where residents exhibit a high propensity for engaging with specific types of games. Our analysis includes data on total purchases and total playtime in these locations, allowing us to pinpoint areas where people frequently make in-game purchases. By targeting these high-engagement regions, we can strategically invest in genres that are most likely to generate significant revenue.
+
+
+![image](https://github.com/user-attachments/assets/1b74da07-7978-49e1-94fd-e2181b1c6b5f)
+
+
+
+# Player Engagement Analysis
+
+This repository contains SQL queries designed to analyze player engagement based on custom-defined segments for age and playtime. The goal is to evaluate how engagement rates vary across different age brackets and playtime segments using our own standards.
+
+## SQL Query Description
+
+The provided SQL query categorizes players into different segments based on their age and playtime and calculates the engagement rate for each segment. The engagement rate is specifically measured for high engagement levels.
+
+### Query Breakdown
+
+1. **Segmentation:**
+   - **Age Brackets:**
+     - 'Young' for players under 25 years.
+     - 'Middle-aged' for players between 25 and 40 years.
+     - 'Senior' for players over 40 years.
+   - **Playtime Segments:**
+     - 'Light' for playtime less than 10 hours.
+     - 'Moderate' for playtime between 10 and 20 hours.
+     - 'Heavy' for playtime exceeding 20 hours.
+
+2. **High Engagement Rate Calculation:**
+   - The engagement rate is calculated based on whether a player has a high engagement level ('High'). 
+   - The query computes the average engagement rate for each combination of age and playtime segments.
+
+
+##
+
+![image](https://github.com/user-attachments/assets/50ddf369-09bf-450a-8c29-4d212cde82d1)
+
+##
+
+
+
 
 
 
