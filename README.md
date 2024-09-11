@@ -85,7 +85,13 @@ The provided SQL query categorizes players into different segments based on thei
 
 ![image](https://github.com/user-attachments/assets/50ddf369-09bf-450a-8c29-4d212cde82d1)
 
-##
+## Power BI
+
+Below is the Dashboard in power bi 
+
+
+![image](https://github.com/user-attachments/assets/3c1a6862-71e6-437a-ba53-aae9be1cd106)
+
 
 
 
