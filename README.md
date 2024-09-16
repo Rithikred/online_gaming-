@@ -10,7 +10,7 @@ This project focuses on analyzing player behavior and monetization data using SQ
 
 # Dataset 
 Im using a kaggle dataset named 🎮 Predict Online Gaming Behavior Dataset by
-[ -d rabieelkharoua/predict-online-gaming-behavior-dataset
+[ -d rabieelkharoua/predict-online-gaming-behavior-dataset 
 ](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset?resource=download)
 
 
